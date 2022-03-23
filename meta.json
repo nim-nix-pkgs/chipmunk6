@@ -12,7 +12,7 @@
   ],
   "heads": [
     {
-      "desc": "Bindings for Chipmunk2D 6.x physics library",
+      "description": "Bindings for Chipmunk2D 6.x physics library",
       "license": "MIT",
       "name": "chipmunk6",
       "ref": "refs/heads/master",
