@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-chipmunk6-master": "src-chipmunk6-master"
+        "src-chipmunk-master": "src-chipmunk-master"
       }
     },
-    "src-chipmunk6-master": {
+    "src-chipmunk-master": {
       "flake": false,
       "locked": {
         "lastModified": 1474744621,
