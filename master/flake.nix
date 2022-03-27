@@ -11,6 +11,7 @@
   inputs.src-chipmunk-master.ref   = "refs/heads/master";
   inputs.src-chipmunk-master.owner = "fowlmouth";
   inputs.src-chipmunk-master.repo  = "nimrod-chipmunk";
+  inputs.src-chipmunk-master.dir   = "";
   inputs.src-chipmunk-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
